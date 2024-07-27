@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dummyAuthContest2Jul24/static/css/main.3736e999.css",
+    "main.js": "/dummyAuthContest2Jul24/static/js/main.3ceaf569.js",
+    "static/media/background_pattern.png": "/dummyAuthContest2Jul24/static/media/background_pattern.0b8141e39145356609be.png",
+    "index.html": "/dummyAuthContest2Jul24/index.html",
+    "main.3736e999.css.map": "/dummyAuthContest2Jul24/static/css/main.3736e999.css.map",
+    "main.3ceaf569.js.map": "/dummyAuthContest2Jul24/static/js/main.3ceaf569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3736e999.css",
+    "static/js/main.3ceaf569.js"
+  ]
+}
